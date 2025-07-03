@@ -1,4 +1,3 @@
-> Dont deploy
 
 > Hobby proj
 
